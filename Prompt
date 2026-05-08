@@ -1,0 +1,18 @@
+Executive Cadence AI — Product Idea
+An Agentic AI platform that autonomously creates personalized weekly executive briefings for organizational leaders.
+Each leader gets a dedicated AI agent that continuously analyzes business data from multiple sources such as Tableau, Power BI, Jira, Salesforce, SQL databases, Excel files, and operational systems. The AI understands the leader’s role, KPIs, portfolio, team performance, priorities, and business goals.
+Every week, the platform automatically generates a concise 1-page executive PDF containing:
+	•	Weekly business summary
+	•	KPI performance
+	•	Productivity insights
+	•	QA and operational metrics
+	•	Portfolio/project health
+	•	Trend analysis
+	•	Root-cause explanations
+	•	Risks and blockers
+	•	AI-generated recommendations
+	•	Strategic action items
+The platform delivers these reports automatically through email, dashboard notifications, or collaboration tools like Slack and Microsoft Teams.
+Users can subscribe through a SaaS interface, connect their data sources, configure reporting cadence, customize KPIs, and interact with the AI through a conversational interface to ask follow-up questions or request deeper analysis.
+Unlike traditional dashboards, the platform does not just display data — it acts as an autonomous executive intelligence system that interprets business performance, explains what matters, identifies risks, and recommends actions tailored to each leader.
+Refine this idea - also give valuable name, impactful, premium yet catchy name
